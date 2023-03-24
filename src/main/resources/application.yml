@@ -1,0 +1,8 @@
+server:
+  port: 9027
+
+spring:
+  security:
+    user:
+      name: admin
+      password: passw@rd
